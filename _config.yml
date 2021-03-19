@@ -7,8 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe Crawford/ 
-                            Plant Physiologist, Geneticist, Dreamer"
+title                    : "Joe Crawford" 
 title_separator          : "-"
 name                     : &name "Joe Crawford"
 description              : &description "professional website "
@@ -83,10 +82,10 @@ analytics:
 author:
   name             : "Joe Crawford"
   avatar           : "joe.jpg"
-  bio              : "Plant physiology, genetics, and junk engineer"
+  bio              : "Plant Physiologist, Geneticist, Dreamer, Junk Engineer"
   location         : "Pullman, WA"
   employer         : "Washington State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "joseph.crawford@wsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
