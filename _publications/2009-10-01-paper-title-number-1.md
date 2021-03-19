@@ -2,7 +2,7 @@
 title: "Fluctuating light experiments and semi-automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper demonstrates how affordable consumer-level supplies can be used to discover heretofore unseen mutant plant phenotypes. My contribution was building and coding the very simple script of the microcontroller.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
