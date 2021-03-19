@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe Crawford / Plant Physiologist, Geneticist, Dreamer"
+title                    : "Joe Crawford/ \n Plant Physiologist, Geneticist, Dreamer"
 title_separator          : "-"
 name                     : &name "Joe Crawford"
 description              : &description "professional website "
