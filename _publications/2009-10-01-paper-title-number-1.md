@@ -7,7 +7,7 @@ date: 2019-12-23
 venue: 'Plant Methods'
 paperurl: 'https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0546-1#Abs1'
 
-citation: 'Dominik Schneider, Laura S. Lopez, Meng Li, Joseph D. Crawford, Helmut Kirchhoff & Hans-Henning Kunz. (2019). &quot;Fluctuating light experiments and semi-automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM. &quot; <i>Plant Methods</i>. 15(156).'
+citation: 'Dominik Schneider, Laura S. Lopez, Meng Li, <b>Joseph D. Crawford</b>, Helmut Kirchhoff & Hans-Henning Kunz. (2019). &quot;Fluctuating light experiments and semi-automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM. &quot; <i>Plant Methods</i>. 15(156).'
 ---
 This paper demonstrates how affordable hobby-level electronics supplies can be used to discover light-sensitive mutant plant phenotypes and genotypes. My contribution was building and coding the very simple script of the microcontroller.'
 
