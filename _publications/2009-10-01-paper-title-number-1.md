@@ -6,10 +6,11 @@ excerpt: 'This paper demonstrates how affordable hobby-level electronics supplie
 date: 2019-12-23
 venue: 'Plant Methods'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+citation: 'Dominik Schneider, Laura S. Lopez, Meng Li, Joseph D. Crawford, Helmut Kirchhoff & Hans-Henning Kunz. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper demonstrates how affordable hobby-level electronics supplies can be used to discover light-sensitive mutant plant phenotypes and genotypes. My contribution was building and coding the very simple script of the microcontroller.'
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Dominik Schneider, Laura S. Lopez, Meng Li, Joseph D. Crawford, Helmut Kirchhoff & Hans-Henning Kunz. (2019). "Fluctuating light experiments and semi-automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM." <i>Plant Methods</i>. 15(156).
