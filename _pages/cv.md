@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Crop Science, University of Illinois, 2008
+* M.S. in Plant Genetics, University of Illinois, 2015
+* Ph.D in Plant Physiology and Genetics, Washington State University, 2021 (expected)
 
 Work experience
 ======
@@ -29,12 +29,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding and Data Analysis
+  * R Programming Language
+  * Python 3 Programming Language
+  * Linux and BASH Scripting
+* Customized Plant Gas Exchange Systems
+* Stable Isotope Mass Spectrometry
+* Statistical Genetics - Genome Wide Association
+* Interfacing digitally with scientific hardware
 
 Publications
 ======
