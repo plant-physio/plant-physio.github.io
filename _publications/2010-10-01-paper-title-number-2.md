@@ -14,7 +14,11 @@ In this first-author paper I created the first genetic map of prairie cord grass
 
 ![Composite genetic map](/images/comp genetic map.png)
 
+Composite genetic map of prairie cordgrass. The map was constructed from 1,773 GBS markers of three segregation types. The F1 pseudo-testcross mapping population is from a reciprocal cross of parent plants 17-109, originating from Illinois, and 20-102, a population originating from Kansas. Corresponding linkage groups were determined by location of shared markers. Parental maps of corresponding linkage groups were integrated using a fixed order from parent 17-109.  
 
+![Syntenic Regions of Spartina pectinata and sorghum bicolor](/images/spartina vs tef vs sorghum.png)
+
+GBS reads from prairie cordgrass linkage maps were aligned to the draft genome scaffolds of Eragrostis tef, a grass also in the Chloridoideae subfamily. The tef scaffolds that prairie cordgrass genetic markers aligned to were subsequently aligned to the Sorghum bicolor genome. Each cell in the graph is a plot of the genetic distance from the prairie cordgrass genetic map (x-axis) plotted against the physical base pair position (y-axis) in sorghum. A) Parent 17-109; B) Parent 20-102. Tick marks of the y-axis range from 0 to 108 and were removed for clarity.
 
 
 [Download paper here](https://link.springer.com/article/10.1007/s11032-016-0484-9)
