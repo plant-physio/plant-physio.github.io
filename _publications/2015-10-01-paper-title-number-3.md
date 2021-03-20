@@ -2,7 +2,7 @@
 title: "Genome Size of Three <i>Miscanthus</i> Species"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Genome size measurements that brought clarity to the evolutionary history of allotriploid Miscanthus x giganteus.'
+excerpt: 'Genome size measurements that brought clarity to the evolutionary history of C<sub>4</sub> allotriploid species <i>Miscanthus x giganteus</i>.'
 date: 2008-10-31
 venue: 'Plant Molecular Biology Reporter'
 paperurl: 'https://link.springer.com/article/10.1007%2Fs11105-008-0070-3'
