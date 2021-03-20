@@ -2,7 +2,7 @@
 title: "Linkage mapping in prairie cordgrass (<i>Spartina pectinata</i> Link) using genotyping-by-sequencing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Creating a genetic map of a tetraploid C4 species using genotyping-by-sequencing.'
+excerpt: 'Creating a genetic map of a tetraploid C4 bioenergy crop species using genotyping-by-sequencing.'
 date: 2016-05-16
 venue: 'Molecular Breeding'
 Journal: 'Molecular Breeding'
