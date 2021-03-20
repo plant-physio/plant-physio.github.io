@@ -13,4 +13,4 @@ In this first-author paper I created the first genetic map of prairie cord grass
 
 [Download paper here](https://link.springer.com/article/10.1007/s11032-016-0484-9)
 
-Crawford, J., Brown, P. J., Voigt, T., & Lee, D. K. (2016). Linkage mapping in prairie cordgrass (<i>Spartina pectinata</i> Link) using genotyping-by-sequencing. Molecular Breeding, 36(5), 1-12
+<b>Crawford, J.</b>, Brown, P. J., Voigt, T., & Lee, D. K. (2016). Linkage mapping in prairie cordgrass (<i>Spartina pectinata</i> Link) using genotyping-by-sequencing. Molecular Breeding, 36(5), 1-12
