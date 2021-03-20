@@ -13,7 +13,7 @@ This goes way back to when I was an undergraduate student. I applied for undergr
 *M. sinensis* and *M. sacchariflorus* were believed to have crossed to make a sterile triploid *M. x giganteus*. Their mean genome sizes support that hypothesis. This was a fun approach to looking at the big-picture look at the evolution of *M. x g* before detailed genetic and genomic information was known. 
 
 
-Flow cytometric histogram of M. x giganteus nuclei stained with Propidium Iodide and mixed with sorghum nuclei
+Flow cytometric histogram of M. x giganteus nuclei stained with Propidium Iodide and mixed with sorghum nuclei as an internal standard to estimate genome size.
 
 
 ![Flow cytometry of miscanthus genome size](/images/flow cyt image.webp)
