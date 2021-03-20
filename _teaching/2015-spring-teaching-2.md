@@ -11,10 +11,9 @@ location: "Pullman, WA, USA"
 I TA for BIO106 and I wish that I had access to such a great course back when I was an undergraduate. The class teaches the foundational concepts of biology that enable generalizable understanding of life at micro, macro, and global scales. As a TA, I teach discovery-based learning in small(er) sections where students independently run experiments. My personal teaching style comes through in our class intro's and the quiz material that I write. The main tenets of my teaching philosophy are:
 
 
-## Header 2
-1. Most things can be understood by analogy; people often make them harder than they need to be.
-## Header 2
-2. Students should be able to learn a concept and apply the concept to a more complex question.
+ 
+## 1. Most things can be understood by analogy; people often make them harder than they need to be.
+## 2. Students should be able to learn a concept and apply the concept to a more complex question.
 
 ======
 
