@@ -58,4 +58,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for the Journal of Experimental Botany
+* Treasurer for Biology Graduate Student Association, Washington State University
+* Treasurer for Crop Sciences Graduate Student Organization,  University of Illinois
