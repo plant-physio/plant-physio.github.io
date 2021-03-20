@@ -12,10 +12,9 @@ This paper demonstrates how affordable hobby-level electronics supplies can be u
 
 
 
+
+
 [Download paper here](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0546-1#Abs1)
 
 
 citation: 'Dominik Schneider, Laura S. Lopez, Meng Li, <b>Joseph D. Crawford</b>, Helmut Kirchhoff & Hans-Henning Kunz. (2019). &quot;Fluctuating light experiments and semi-automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM. &quot; <i>Plant Methods</i>. 15(156).'
-
-<!-- Comment -->
-#citation: 'Dominik Schneider, Laura S. Lopez, Meng Li, <b>Joseph D. Crawford</b>, Helmut Kirchhoff & Hans-Henning Kunz. (2019). &quot;Fluctuating light experiments and semi-#automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM. &quot; <i>Plant Methods</i>. 15(156).'
