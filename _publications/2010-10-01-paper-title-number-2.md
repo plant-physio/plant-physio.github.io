@@ -2,9 +2,10 @@
 title: "Linkage mapping in prairie cordgrass (Spartina pectinata Link) using genotyping-by-sequencing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Creating a genetic map of a tetraploid C4 species using genotyping-by-sequencing.'
 date: 2016-05-16
 venue: 'Molecular Breeding'
+Journal: 'Molecular Breeding'
 paperurl: 'https://link.springer.com/article/10.1007/s11032-016-0484-9'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
