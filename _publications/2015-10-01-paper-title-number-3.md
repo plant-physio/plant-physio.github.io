@@ -1,15 +1,32 @@
 ---
-title: "Paper Title Number 3"
+title: "Genome Size of Three *Miscanthus* Species"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Genome size brought study that brought clarity to the evolutionary history of allotriploid Miscanthus x giganteus.'
+date: 2008-10-31
+venue: 'Plant Molecular Biology Reporter'
+paperurl: 'https://link.springer.com/article/10.1007%2Fs11105-008-0070-3'
+citation: ' Rayburn, A.L., **Crawford, J.**, Rayburn, C.M., Juvik, J. A. (2009). &quot;PGenome Size of Three *Miscanthus* Species.&quot; <i>Plant Molecular Biology Reporter</i>. 27(84).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This goes way back to when I was an undergraduate student. I applied for undergraduate research funding at the University of Illinois and received enough to perform flow cytometry to look at the genome sizes of three species in the *Miscanthus* genus. *M. sinensis* and *M. sacchariflorus* were believed to have crossed to make a sterile triploid *M x g*. Their mean genome sizes support that hypothesis. This was a fun approach to looking at the big-picture look at the evolution of *M. x g* before detailed genetic and genomic information was known. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Flow cytometric histogram of M. x giganteus nuclei stained with Propidium Iodide and mixed with sorghum nuclei
+![Flow cytometry of miscanthus genome size](/images/flow cyt image.webp)
+
+
+
+[Download paper here](https://link.springer.com/article/10.1007%2Fs11105-008-0070-3)
+
+Recommended citation: Rayburn, A.L., **Crawford, J.**, Rayburn, C.M., Juvik, J.A. Genome Size of Three *Miscanthus* Species. Plant Molecular Biology Reporter. 27, 184 (2009). https://doi.org/10.1007/s11105-008-0070-3
+
+
+
+
+
+
+Keywords
+Flow cytometry
+Nuclear DNA content
+Guard cells
+Miscanthus
