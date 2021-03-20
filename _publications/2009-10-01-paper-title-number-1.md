@@ -12,6 +12,15 @@ This paper demonstrates how affordable hobby-level electronics supplies can be u
 
 
 
+![Fluctuating light Chamber pic](/images/IMG_2061.JPG)
+
+
+![Microcontroller pics](/images/fluc chamber pic henning.webp)
+
+
+
+
+
 
 
 [Download paper here](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-019-0546-1#Abs1)
