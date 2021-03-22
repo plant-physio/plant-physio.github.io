@@ -14,7 +14,7 @@ East China Institute of Technology, Jiangxi, Fuzhou, China
 ======
 
 # Inner Mongolia Normal University, Huhehaote, Inner Mongolia, China
-Normal in this context means Teaching
+    Normal in this context means Teaching
 ======
 
 Teachall Consulting, Beijing China
