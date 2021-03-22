@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching English in China"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Oral English"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "East China Institute of Technology; Inner Mongolia Normal University; and Teachall Consulting"
+date: 2009-02-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught English as Second Language (ESL) in China for three years at the college/adult level. And while I was there I took Chinese language courses at Beijing Radio and Television University in Beijing. Most of my work was engaging students in the *practice* of conversational english. The following are some photographs and summaries of the Universities and venues I taught at.
 
-Heading 1
+East China Institute of Technology, Jiangxi, Fuzhou, China
 ======
 
-Heading 2
+# Inner Mongolia Normal University, Huhehaote, Inner Mongolia, China
+Normal in this context means Teaching
 ======
 
-Heading 3
+Teachall Consulting, Beijing China
 ======
