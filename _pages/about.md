@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+
+Joe is exploring the biochemistry of and genetic control of C4 photosynthesis and water use efficiency and his ambition is to someday completely phenotype the intricacies of plant carbon metabolism. He uses a variety of mechanisms and approaches to specifically test, or, to generally survey the drivers of C4 photosynthetic water use efficiency in both controlled environments and field studies. He explores how the first enzyme of the C4 pathway, carbonic anhydrase, influences photosynthesis and water use of the whole-plant using gas exchange, biochemistry, and real-time 13CO2 analysis. Additionally, with the conviction that carbon metabolism and water use are untapped genetic resources, he is trying to discover the genes that potentially drive differences in C4 crop carbon metabolism and water use efficiency in diverse sorghum germplasm with the goal of translating those results for practical use in genomic selection and marker assisted breeding.  
+
+
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
