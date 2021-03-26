@@ -13,7 +13,7 @@ I taught English as Second Language (ESL) in China for three years at the colleg
 
 East China Institute of Technology, Jiangxi, Fuzhou, China
 ======
-ECIT was a small school in Jiangxi province and I facilitated English speaking classes for English majors. A humble school but I am still inspired by the students efforts to master English.
+ECIT was a small school in Jiangxi province and I facilitated English speaking classes for English majors. A humble school but I am still inspired by the students' efforts to master English.
 
 ![test](/images/DSC01598.JPG)
 
