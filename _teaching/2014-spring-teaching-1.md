@@ -19,7 +19,7 @@ ECIT was a small school in Jiangxi province and I facilitated English speaking c
 
 ![test](/images/DSC01605.JPG)
 
-![test](/images/DSC01606)
+![test](/images/DSC01606.JPG)
 
 
 
