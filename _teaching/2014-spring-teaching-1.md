@@ -15,11 +15,11 @@ East China Institute of Technology, Jiangxi, Fuzhou, China
 ======
 ECIT was a small school in Jiangxi province and I facilitated English speaking classes for English majors. A humble school but I am still inspired by the students' efforts to master English.
 
-![test](/images/DSC01598.JPG)
+![test](/images/DSC01598.JPG){ width=50% }
 
-![test](/images/DSC01605.JPG)
+![test](/images/DSC01605.JPG) { width=50% }
 
-![test](/images/DSC01606.JPG)
+![test](/images/DSC01606.JPG) { width=50% }
 
 
 
