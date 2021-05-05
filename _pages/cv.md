@@ -24,7 +24,7 @@ Work experience
 
 * University of Illinois Crop Science Department
   * Graduate Research Assistant
-   * Advisor: Professor DK Lee and Professor Tom Voigt
+   * Advisor: Professors DK Lee and Professor Tom Voigt
    * Jan 2012 - 2015
       
 * Mendel Biotechnology BioEnergy Seeds
@@ -34,7 +34,7 @@ Work experience
 
 * University of Illinois Miscanthus Special Research Initiative
   *  Undergraduate Researcher
-    *  Supervisors: Proessor Steve Long PhD, Professor Emily Heaton PhD, Frank Dohleman PhD
+    *  Supervisors: Professor Steve Long PhD, Professor Emily Heaton PhD, Frank Dohleman PhD
     *  Sept 05 - May 08
   
 Skills
