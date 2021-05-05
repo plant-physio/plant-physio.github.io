@@ -26,16 +26,16 @@ Work experience
   * Graduate Research Assistant
    * Advisor: Professor DK Lee and Professor Tom Voigt
    * Jan 2012 - 2015
-   
+      
 * Mendel Biotechnology BioEnergy Seeds
- * Research Assistant
-  * Supervisor: Damian Allan, PhD
-  * May 2008 - Feb 2009  
+  * Research Assistant
+   * Supervisor: Damian Allan, PhD
+   * May 2008 - Feb 2009  
 
 * University of Illinois Miscanthus Special Research Initiative
- *  Undergraduate Researcher
-  *  Supervisors: Proessor Steve Long PhD, Professor Emily Heaton PhD, Frank Dohleman PhD
-  *  Sept 05 - May 08
+  *  Undergraduate Researcher
+    *  Supervisors: Proessor Steve Long PhD, Professor Emily Heaton PhD, Frank Dohleman PhD
+    *  Sept 05 - May 08
   
 Skills
 ======
