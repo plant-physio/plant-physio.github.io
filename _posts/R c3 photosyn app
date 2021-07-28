@@ -1,0 +1,14 @@
+---
+title: 'A Shiny App for Modeling or Teaching about C3 Photosynthesis'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - R
+  - shiny
+  - photosynthesis
+---
+
+A Shiny App for Modeling C3 Parameters
+=====
+
+You can download this shiny app and run it locally on your computer. Its very simple but it allows you to adjust parameters and see how the C3 model of photosynthesis would respond to these changes. 
