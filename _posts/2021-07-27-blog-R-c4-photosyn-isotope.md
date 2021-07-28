@@ -13,5 +13,4 @@ A Shiny App for Modeling C4 Stable Isotope Model Parameters
 
 ![test](/files/shiny aapp pic.PNG)
 
-You can download this shiny app and run it locally on your computer. Its very simple but it allows you to adjust parameters and see how the C4 model of photosynthesis and carbon isotope discrimination 
-would respond to these changes. 
+You can download this shiny app and run it locally on your computer. Its very simple but it allows you to adjust parameters and see how the C4 model of photosynthesis and carbon isotope discrimination would respond to these changes. 
