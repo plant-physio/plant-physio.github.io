@@ -1,7 +1,7 @@
 ---
 title: 'A Shiny App for Modeling C4 Photosynthesis Carbon Isotope Discrimination'
 date: 2021-07-27
-permalink: /posts/2021-07-27-blog-R-c4-photosyn-isotope.md
+permalink: /posts/2021-07-27-blog-R-c4-photosyn-isotope
 tags:
   - R
   - shiny
