@@ -1,7 +1,7 @@
 ---
-title: 'A Shiny App for Modeling or Teaching about C3 Photosynthesis'
-date: 2012-08-14
-permalink: /posts/R c4 photosyn isotope app
+title: 'A Shiny App for Modeling C4 Photosynthesis Carbon Isotope Discrimination'
+date: 2021-07-27
+permalink: /posts/2021-07-27-blog-R-c4-photosyn-isotope.md
 tags:
   - R
   - shiny
