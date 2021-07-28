@@ -1,6 +1,6 @@
 ---
 title: "Fluctuating light experiments and semi-automated plant phenotyping enabled by self-built growth racks and simple upgrades to the IMAGING-PAM"
-collection: publication
+collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'Hobby-level electronics are used to discover fluctuating light-sensitive mutant plant phenotypes and genotypes.' 
 date: 2019-12-23
