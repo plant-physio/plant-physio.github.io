@@ -1,7 +1,7 @@
 ---
 title: "30 Years of Progress toward Increased Biomass Yield of Switchgrass and Big Bluestem"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1.md
+permalink: /publication/switchgrass_pub.md
 excerpt: '' 
 date: 2018-05-01
 venue: 'Crop Science'
